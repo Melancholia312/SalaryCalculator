@@ -1,5 +1,5 @@
 # SalaryCalculator
-A simple calculator exposed as Rest API, built with Java 11 using Spring Boot.
+A simple salary calculator exposed as Rest API, built with Java 11 using Spring Boot.
 
 # Requirement
 Install Java 11 JDK. It can be downloaded from Oracle using the following link: https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
